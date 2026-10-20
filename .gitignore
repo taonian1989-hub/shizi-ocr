@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+work/
+outputs/
+
+# Local-only state and credentials
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.lnk
+Thumbs.db
+.DS_Store
